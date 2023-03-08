@@ -1,0 +1,35 @@
+input
+{
+    height: 40px;
+    width: 650px;
+    align-items: center;
+    font-variant: small-caps;
+    border-radius: 5px;
+}
+
+.but{
+
+        height: 40px;
+        width: 200px;
+        margin-left: 1000px;
+        border-radius: 5px;
+        background-color: blanchedalmond;
+}
+h2{
+    font-variant: small-caps;
+    font-size: 30px;
+    text-align: center;
+}
+.nav
+{
+    background-color: coral;
+    height: 90px;
+
+}
+.home
+{
+    font-variant: small-caps;
+    color: brown;
+    font-size: 40px;
+    margin-right :1500px;
+}
